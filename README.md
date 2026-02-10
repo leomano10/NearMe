@@ -28,10 +28,108 @@ Write HTML programs for all the regions identified.
 Execute the programs and publish them.
 
 ## CODE
+```
+map.html
+<html>
+    <head>
+        <title>arakkonam map</title>
+    </head>
+    <body>
+        <h1 align="center">Arakkonam map</h1>
+        <h3 align="center">Manorajapriyan.l.e (25018415)</h3>
+        <img src="Screenshot 2026-02-09 085542.png" usemap="#arakkonam map">
 
+<map name="arakkonam map">
+    <area target="" alt="vedha swimming pool" title="vedha swimming pool" href="vedha.html" coords="109,429,107" shape="circle">
+    <area target="" alt="classic fitness gym and health" title="classic fitness gym and health" href="classic.html" coords="935,423,1173,472" shape="rect">
+    <area target="" alt="sindhu cinemas" title="sindhu cinemas" href="sindhu.html" coords="673,691,838,733" shape="rect">
+    <area target="" alt="our lady of good health church" title="our lady of good health church" href="church.html" coords="1283,190,1285,291,1423,290,1472,235,1413,186" shape="poly">
+    <area target="" alt="divisional railway hospital" title="divisional railway hospital" href="hospital.html" coords="499,278,492,343,581,348,681,321,637,277,568,255" shape="poly">
+</map>
+    </body>
+</html>
+church.html
+<html>
+    <head>
+        <title>CHURCH</title>
+    </head>
+    <body bgcolor="silver">
+        <h1 align="center">OUR LADY OF GOOD HEALTH CHURCH-ARAKKONAM</h1>
+        Our Lady of Good Health Church
+
+Christian worship centers
+
+Serve the local community with religious services, prayers, and events
+    </body>
+</html>
+classic.html
+<html>
+    <head>
+        <title>GYM</title>
+    </head>
+    <body bgcolor="gold">
+        <h1 align="center">CLASSIC FITNESS GYM-ARAKKONAM</h1>
+        CL Classic Fitness Gym and Health
+
+A fitness center / gym
+
+Offers workout equipment, strength training, and general fitness programs
+    </body>
+</html>
+hospital.html
+<html>
+    <head>
+        <title>hospital</title>
+    </head>
+    <body bgcolor="RED">
+        <h1 align="center">DIVISIONAL RAILWAY HOSPITAL-ARAKKONAM</h1>
+        Divisional Railway Hospital
+
+A government hospital run by Indian Railways
+
+Mainly serves railway employees, their families, and also the public in emergencies
+
+Provides outpatient care, basic diagnostics, and inpatient services
+    </body>
+</html>
+sindhu.html
+<html>
+    <head>
+        <title>THEATRE</title>
+    </head>
+    <body bgcolor="brown">
+        <h1 align="center">SINDHU CINEMAS-ARAKKONAM</h1>
+        Sindhu Cinemas
+
+A local movie theatre
+
+Screens Tamil and regional films
+
+Common hangout spot for entertainment
+    </body>
+</html>
+vedha.html
+<html>
+    <head>
+        <title>vedha swimmimg pool</title>
+    </head>
+    <body bgcolor="blue">
+        <h1 align="center">VEDHA SWIMMING POOL-ARAKKONAM</h1>
+        Vedha Swimming Pool
+
+A private swimming pool facility
+
+Used for training, fitness, and recreational swimming
+
+Popular among students and local residents
+    </body>
+</html>
+
+
+```
 
 ## OUTPUT
-
+![alt text](<Screenshot (21).png>) ![alt text](<Screenshot (20).png>) ![alt text](<Screenshot (25).png>) ![alt text](<Screenshot (24).png>) ![alt text](<Screenshot (23).png>) ![alt text](<Screenshot (22).png>)
 
 
 
